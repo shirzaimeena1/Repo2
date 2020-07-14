@@ -3,8 +3,9 @@ package Local;
 public class GitHup {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println( "Helo java");
+		// comment 
+		// this is test class
 	}
 
 }
